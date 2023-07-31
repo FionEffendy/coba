@@ -39,4 +39,5 @@ plt.axis("off")
 plt.imshow(bar)
 plt.show()
 
-# ini cuma coba
+# ini cuma coba 
+# ini lagi buat lihat commit dengan VScode
