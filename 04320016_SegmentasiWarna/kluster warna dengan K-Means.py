@@ -38,3 +38,5 @@ plt.figure()
 plt.axis("off")
 plt.imshow(bar)
 plt.show()
+
+# ini cuma coba
